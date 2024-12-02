@@ -1,5 +1,7 @@
 **Zomato Data Analytics Project**
 
+**Project Link** https://lookerstudio.google.com/reporting/3a813702-ab39-430a-a7ce-809fad26ab53 
+
 **Project Overview**
 
 The Zomato Data Analytics Project analyzes customer satisfaction, delivery performance, and operational inefficiencies for Zomato, one of India’s leading food delivery platforms.
